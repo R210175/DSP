@@ -1,11 +1,11 @@
-The file will have  upsampling
-                    down sampling
-                    convolution
-                    circular convolution
-                    circular to linear convolution
-                    DTFT calculation for an array,audio signal
-                    DFT calculation for an array
-                    FFT Calculation
-                    Effect of zeroes and poles on frequency response of the system
-                    Z-Transform calculation
-                    Quantisation and resampling of a sinewave and more
+The file will have  1.upsampling,
+                    2.down sampling,
+                    3.convolution,
+                    4.circular convolution,
+                    5.circular to linear convolution,
+                    6.DTFT calculation for an array - audio signal,
+                    7.DFT calculation for an array,
+                    8.FFT Calculation,
+                    9.Effect of zeroes and poles on frequency response of the system,
+                    10.Z-Transform calculation,
+                    11.Quantisation and resampling of a sinewave and more
